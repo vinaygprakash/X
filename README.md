@@ -19,7 +19,6 @@ Some Features:
 -   🖼️ Edit Cover Image and Profile Image
 -   📷 Image Uploads using Cloudinary
 -   🔔 Send Notifications
--   🌐 Deployment
 -   ⏳ And much more!
 
 
